@@ -1,0 +1,12 @@
+manifesting-vision-board/
+├─ src/
+│  ├─ App.jsx
+│  ├─ main.jsx
+│  └─ index.css
+├─ index.html
+├─ package.json
+├─ vite.config.js
+├─ tailwind.config.js
+├─ postcss.config.js
+├─ .env.example
+└─ README.md
